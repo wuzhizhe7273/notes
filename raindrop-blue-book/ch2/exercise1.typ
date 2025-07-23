@@ -1,0 +1,1 @@
+#underline(offset:-0.4em,evade: false)[吾輩は猫である。]
