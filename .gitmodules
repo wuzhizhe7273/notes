@@ -1,3 +1,4 @@
 [submodule "cs144/lab"]
 	path = cs144/lab
 	url = https://github.com/wuzhizhe7273/cs144-lab.git
+	branch = checkpoint1
